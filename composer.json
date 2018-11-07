@@ -1,0 +1,18 @@
+{
+    "name": "panglishan/gtpush",
+    "description": "Getui extension package for lumen",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lishan Pang",
+            "email": "1306573126@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Panglishan\\Getui\\": "./src"
+        }
+    },
+    "require": {}
+}
