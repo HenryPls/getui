@@ -1,6 +1,6 @@
 <?php
 
-namespace Panglishan\Providers;
+namespace Panglishan\Gtpush;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Lumen\Application as LumenApplication;

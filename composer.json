@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Panglishan\\Getui\\": "./src"
+            "Panglishan\\Gtpush\\": "./src"
         }
     },
     "require": {}
